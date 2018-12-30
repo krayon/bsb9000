@@ -1,0 +1,60 @@
+{{{
+ ____ ____  ____  ___   ___   ___   ___
+| __ ) ___|| __ )/ _ \ / _ \ / _ \ / _ \
+|  _ \___ \|  _ \ (_) | | | | | | | | | |
+| |_) |__) | |_) \__, | |_| | |_| | |_| |
+|____/____/|____/  /_/ \___/ \___/ \___/
+}}}
+= BSB9000 =
+
+== Button to play annoying audio clips when pressed ==
+
+== Introduction ==
+
+A colleague of mine has a button. It's red, and sits atop his desk. When someone
+says something that seems decidedly incorrect, or dishonest, he will press it.
+When depressed, his button lets out one of maybe six different audio clips, each
+a variation of calling //Bullshit//, such as "Warning, warning, bullshit
+alert!". One can purchase it from
+[[https://www.ebay.com.au/itm/bsb/322181514884|eBay here]] for $23.00 (AUD):
+
+{{img.png|Bullshit Button}}
+
+I think I can build one with more, using maybe an AVR or something. So, that's
+the plan.
+
+== Availability ==
+
+Not yet.
+
+== Bug Tracker ==
+
+Not yet.
+
+== Usage ==
+
+Not yet.
+
+== History ==
+
+Not much yet.
+
+== Features ==
+
+Nothing yet.
+
+== Version History ==
+
+* v0.0.1
+** Nothing yet.
+
+== TODO ==
+
+* Design it.
+* Make it.
+
+== Notes ==
+
+None yet.
+
+<<< vim:set ts=4 sw=4 tw=80 et cindent ai si syn=creole: >>>
