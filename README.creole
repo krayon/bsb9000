@@ -72,6 +72,13 @@ enough.
 Lighting will be provided by a SMD 5050 RGB LED, driven by a WS2811. I have
 single modules of this already, having purchased a bag from eBay for maybe $5.
 
+You can actually see the LED being driven by the ATTiny13A in the background of
+the disassembly picture above. Here it is again, under the dome diffuser:
+
+{{imgs/light_test.thumb.jpg|SMD5050 + WS2811 + ATTiny13A + Button diffuser}}
+
+[[imgs/light_test.jpg|FULL SIZE]]
+
 == Availability ==
 
 Not yet.
