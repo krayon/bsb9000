@@ -55,6 +55,13 @@ obtained from an Op-Shop for $4.00 (AUD) the lot:
 These buttons are the size of your hand and take 4 AA batteries in the bottom.
 I'm not sure how much room I'll need so I'm going with one of these.
 
+Disassembling shows a simple globe, with white cardboard for it to reflect off,
+into the dome diffuser:
+
+{{imgs/button_disass1.thumb.jpg|Big Button, disassembled}}
+
+[[imgs/button_disass1.jpg|FULL SIZE]]
+
 === (u)Processor ===
 
 I'm probably going with an Atmel ATTiny(13A). Only 8 pins but should be good
