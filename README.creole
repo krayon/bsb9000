@@ -18,7 +18,7 @@ a variation of calling //Bullshit//, such as "Warning, warning, bullshit
 alert!". One can purchase it from
 [[https://www.ebay.com.au/itm/bsb/322181514884|eBay here]] for $23.00 (AUD):
 
-{{img.png|Bullshit Button}}
+{{imgs/orig.jpg|Bullshit Button}}
 
 I think I can build one with more, using maybe an AVR or something. So, that's
 the plan.
