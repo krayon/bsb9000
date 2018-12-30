@@ -18,7 +18,8 @@ a variation of calling //Bullshit//, such as "Warning, warning, bullshit
 alert!". One can purchase it from
 [[https://www.ebay.com.au/itm/bsb/322181514884|eBay here]] for $23.00 (AUD):
 
-[[imgs/orig.jpg|{{imgs/orig.thumb.jpg|Bullshit Button}}]]
+{{imgs/orig.thumb.jpg|Bullshit Button}}
+[[imgs/orig.jpg]]
 
 I think I can build one with more, using maybe an AVR or something. So, that's
 the plan.
@@ -36,7 +37,8 @@ The smaller ( similar to
 [[https://www.ebay.com.au/itm/lamp/273176137849|this eBay listing]] ) I had
 already used for another project - //summoner//:
 
-[[imgs/summoner.jpg|{{imgs/summoner.thumb.jpg|Summoner}}]]
+{{imgs/summoner.thumb.jpg|Summoner}}
+[[imgs/summoner.jpg]]
 
 I obtained these buttons in a 3 pack from K-Mart for a few dollars. They have a
 battery compartment for 3 AAA batteries but not a great amount of space inside.
@@ -44,7 +46,8 @@ battery compartment for 3 AAA batteries but not a great amount of space inside.
 The larger I've seen in plenty of places but I had 3 laying around that I
 obtained from an Op-Shop for $4.00 (AUD) the lot:
 
-[[imgs/button.jpg|{{imgs/button.thumb.jpg|Big Button}}]]
+{{imgs/button.thumb.jpg|Big Button}}
+[[imgs/button.jpg]]
 
 These buttons are the size of your hand and take 4 AA batteries in the bottom.
 I'm not sure how much room I'll need so I'm going with one of these.
