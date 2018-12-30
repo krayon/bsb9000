@@ -34,7 +34,7 @@ already had available.
 
 The smaller ( similar to
 [[https://www.ebay.com.au/itm/lamp/273176137849|this eBay listing]] ) I had
-already used for [[../summoner.git/|another project - summoner]]:
+already used for another project - //summoner//:
 
 {{imgs/summoner.jpg|Summoner}}
 
