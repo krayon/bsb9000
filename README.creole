@@ -19,7 +19,8 @@ alert!". One can purchase it from
 [[https://www.ebay.com.au/itm/bsb/322181514884|eBay here]] for $23.00 (AUD):
 
 {{imgs/orig.thumb.jpg|Bullshit Button}}
-[[imgs/orig.jpg]]
+
+//[[imgs/orig.jpg|FULL SIZE]]//
 
 I think I can build one with more, using maybe an AVR or something. So, that's
 the plan.
@@ -38,7 +39,8 @@ The smaller ( similar to
 already used for another project - //summoner//:
 
 {{imgs/summoner.thumb.jpg|Summoner}}
-[[imgs/summoner.jpg]]
+
+//[[imgs/summoner.jpg|FULL SIZE]]//
 
 I obtained these buttons in a 3 pack from K-Mart for a few dollars. They have a
 battery compartment for 3 AAA batteries but not a great amount of space inside.
@@ -47,7 +49,8 @@ The larger I've seen in plenty of places but I had 3 laying around that I
 obtained from an Op-Shop for $4.00 (AUD) the lot:
 
 {{imgs/button.thumb.jpg|Big Button}}
-[[imgs/button.jpg]]
+
+[[imgs/button.jpg|FULL SIZE]]
 
 These buttons are the size of your hand and take 4 AA batteries in the bottom.
 I'm not sure how much room I'll need so I'm going with one of these.
