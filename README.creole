@@ -55,6 +55,16 @@ obtained from an Op-Shop for $4.00 (AUD) the lot:
 These buttons are the size of your hand and take 4 AA batteries in the bottom.
 I'm not sure how much room I'll need so I'm going with one of these.
 
+=== (u)Processor ===
+
+I'm probably going with an Atmel ATTiny(13A). Only 8 pins but should be good
+enough.
+
+=== Lighting ===
+
+Lighting will be provided by a SMD 5050 RGB LED, driven by a WS2811. I have
+single modules of this already, having purchased a bag from eBay for maybe $5.
+
 == Availability ==
 
 Not yet.
