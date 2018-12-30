@@ -23,6 +23,32 @@ alert!". One can purchase it from
 I think I can build one with more, using maybe an AVR or something. So, that's
 the plan.
 
+== Hardware ==
+
+//**NOTE: I'm in Australia, so that's my supply perspective.**//
+
+=== Button Housing ===
+
+The housing itself I thought could be either one of the small touch lamps I
+already had available.
+
+The smaller ( similar to
+[[https://www.ebay.com.au/itm/lamp/273176137849|this eBay listing]] ) I had
+already used for [[../summoner.git/|another project - summoner]]:
+
+{{imgs/summoner.jpg|Summoner}}
+
+I obtained these buttons in a 3 pack from K-Mart for a few dollars. They have a
+battery compartment for 3 AAA batteries but not a great amount of space inside.
+
+The larger I've seen in plenty of places but I had 3 laying around that I
+obtained from an Op-Shop for $4.00 (AUD) the lot:
+
+{{imgs/button.jpg|Big Button}}
+
+These buttons are the size of your hand and take 4 AA batteries in the bottom.
+I'm not sure how much room I'll need so I'm going with one of these.
+
 == Availability ==
 
 Not yet.
