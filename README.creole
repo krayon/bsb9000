@@ -68,12 +68,17 @@ into the dome diffuser:
 
 === (u)Processor ===
 
-I'm using an Atmel ATTiny13A.  Only 8 pins but should be good enough.
+I'm using an [[doc/ATTiny13A.datasheet.pdf|Atmel ATTiny13A (datasheet)]].  Only
+8 pins but should be good enough. They are less than $1 AU each ( from some eBay
+guy, like [[https://www.ebay.com.au/itm/attiny13a/191109036591|this one]] ).
 
 === Lighting ===
 
 Lighting will be provided by a SMD 5050 RGB LED, driven by a WS2811. I have
 single modules of this already, having purchased a bag from eBay for maybe $5.
+They are nice and small like the strips from
+[[https://www.ebay.com.au/itm/5M-150-300LED-WS2812B-WS2811/323560382408|this
+eBay seller]].
 
 You can actually see the LED being driven by the ATTiny13A in the background of
 the disassembly picture above. Here it is again, under the dome diffuser:
@@ -81,6 +86,15 @@ the disassembly picture above. Here it is again, under the dome diffuser:
 {{imgs/light_test.thumb.jpg|SMD5050 + WS2811 + ATTiny13A + Button diffuser}}
 
 [[imgs/light_test.jpg|FULL SIZE]]
+
+=== Audio Playback ===
+
+The [[doc/FN-M16P.datasheet.pdf|FN-M16P / DFPlayer Mini MP3/WAV Audio Module
+(datasheet)]] will be used for audio playback. It is a 3.3v module powered by
+the YX5200-24SS(?) chip. It is capable of playing both MP3 and WAV files from a
+FAT16/FAT32 file system formatted uSD card, or a USB storage medium, up to 32GB
+in size! It has volume control, random playback, and even a built in advert
+insertion function! Not bad for under $2 AU.
 
 == Availability ==
 
