@@ -72,6 +72,9 @@ I'm using an [[doc/ATTiny13A.datasheet.pdf|Atmel ATTiny13A (datasheet)]].  Only
 8 pins but should be good enough. They are less than $1 AU each ( from some eBay
 guy, like [[https://www.ebay.com.au/itm/attiny13a/191109036591|this one]] ).
 
+Due to the ATTiny13A not having hardware UART, I will instead try using one of
+my ESP8266 ESP-01 modules I have laying around.
+
 === Lighting ===
 
 Lighting will be provided by a SMD 5050 RGB LED, driven by a WS2811. I have

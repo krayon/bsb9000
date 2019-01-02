@@ -15,3 +15,10 @@ Got AVR ATTiny13A talking to SMD5050 via WS2811 controller:
 {{imgs/light_test.thumb.jpg|SMD5050 + WS2811 + ATTiny13A + Button diffuser}}
 
 [[imgs/light_test.jpg|FULL SIZE]]
+
+== 2018-12-26 ==
+
+The audio playing component ( FN-M16P ) is driven by a UART RS232 serial
+connection. Looking at the [[doc/ATTiny13A.datasheet.pdf|ATTiny13A specs]], it
+appears it doesn't have hardware UART. Maybe I'll have to go with an ESP8266
+instead.
