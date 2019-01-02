@@ -25,6 +25,10 @@ alert!". One can purchase it from
 I think I can build one with more, using maybe an AVR or something. So, that's
 the plan.
 
+== Diary ==
+
+See the seperate [[DIARY.creole|diary page]].
+
 == Hardware ==
 
 //**NOTE: I'm in Australia, so that's my supply perspective.**//
@@ -64,8 +68,7 @@ into the dome diffuser:
 
 === (u)Processor ===
 
-I'm probably going with an Atmel ATTiny(13A). Only 8 pins but should be good
-enough.
+I'm using an Atmel ATTiny13A.  Only 8 pins but should be good enough.
 
 === Lighting ===
 
