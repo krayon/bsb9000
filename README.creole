@@ -91,9 +91,9 @@ the disassembly picture above. Here it is again, under the dome diffuser:
 
 === Audio Playback ===
 
-The [[doc/FN-M16P.datasheet.pdf|FN-M16P / DFPlayer Mini MP3/WAV Audio Module
-(datasheet)]] will be used for audio playback. It is a 3.3v module powered by
-the YX5200-24SS(?) chip. It is capable of playing both MP3 and WAV files from a
+The [[doc/FN-M16P.datasheet.pdf|FN-M16P / DFPlayer Mini MP3/WAV Audio Module (datasheet)]]
+will be used for audio playback. It is a 3.3v module powered by the
+YX5200-24SS(?) chip. It is capable of playing both MP3 and WAV files from a
 FAT16/FAT32 file system formatted uSD card, or a USB storage medium, up to 32GB
 in size! It has volume control, random playback, and even a built in advert
 insertion function! Not bad for under $2 AU.
