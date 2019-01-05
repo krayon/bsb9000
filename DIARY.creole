@@ -22,3 +22,33 @@ The audio playing component ( FN-M16P ) is driven by a UART RS232 serial
 connection. Looking at the [[doc/ATTiny13A.datasheet.pdf|ATTiny13A specs]], it
 appears it doesn't have hardware UART. Maybe I'll have to go with an ESP8266
 instead.
+
+== 2019-01-04 ==
+
+After some tests with the ESP8266 powered ESP-01, I am not sure it is the ideal
+solution either. It has really easy UART which is great, but the ESP-01 at
+least, only has 2 completely usable pins (the UART ones) or 4 if you push it
+with some special sauce. Also, it's got a bit of a weird requirement for deep
+sleep. Once placed in deep sleep, it can only be woken by a timer (provided
+GPIO16 is connected to RESET) or by grounding RESET.
+
+Making the button reset when it's off, or generate a button press when it's on,
+is a bit of a challenge with so few pins. I tried a few discrete component
+solutions without success.
+
+I also played around with having an ATTiny13A controlling the push button and
+resetting of the ESP8266. The ESP8266 would send a pulse to tell the ATTiny
+that it was going to sleep and the ATTiny would keep track of it's state,
+therefore knowing if it needed a kick to wake up. This sort of worked but
+seemed a bit clunky. Again pins were an issue here too since the ESP8266 needed
+a pin for button/ATTiny comms, the 2 pins for audio, and 1 for the light. 2 of
+these had to be GPIO0 and GPIO2 which are both used in the ESP8266 boot process
+to determine desired functionality.
+
+I also have some ESP8266 chips in the ESP-07 format, which exposes many more
+pins (maybe 6 more) but this wouldn't solve the push button/reset issue without
+a seperate uP (such as the ATTiny). At this point it seemed to me that since I
+didn't need any of the ESP8266 wifi functionality, and was going to use a
+better ESP8266 anyway, I may as well use a better Atmel AVR instead and use one
+with UART. Perhaps one of my ATMega328's.
+
