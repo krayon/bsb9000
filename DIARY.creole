@@ -52,3 +52,10 @@ didn't need any of the ESP8266 wifi functionality, and was going to use a
 better ESP8266 anyway, I may as well use a better Atmel AVR instead and use one
 with UART. Perhaps one of my ATMega328's.
 
+== 2019-01-12 ==
+
+Playing around with the ATTiny85's lately and successfully got it to bitbang
+the serial comms to the FN-M16P. Obviously I should be able to do this on the
+ATTiny13 too but I ran out of space just programming in some lighting effects
+into it so the ATTiny85 it is. Perhaps I can get away with using a Tiny after
+all.
