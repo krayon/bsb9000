@@ -68,3 +68,16 @@ the low baud rate of the M16 (9600) it's easiest to run the processor at 1MHz,
 unfortunately this is too slow for the WS2811! OK, maybe I'll go back to my
 ATMega328 after all :P
 
+== 2019-03-11 ==
+
+I have returned back to the ATMega328 for this project. One thing I cannot
+easily do however, is use the UART to debug since it's being used to
+communicate with the FN-M16P. I have therefore obtained a TM1638 powered module
+driving 8 LEDs, 8 7-segment (+ period) characters and 8 buttons:
+
+{{imgs/TM1638.thumb.jpg|TM1638 Key Display Module}}
+
+[[imgs/TM1638.jpg|FULL SIZE]]
+
+This serves as my debug tool, displaying return values, state information etc.
+
