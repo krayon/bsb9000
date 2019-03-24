@@ -72,8 +72,21 @@ I'm using an [[doc/ATTiny13A.datasheet.pdf|Atmel ATTiny13A (datasheet)]].  Only
 8 pins but should be good enough. They are less than $1 AU each ( from some eBay
 guy, like [[https://www.ebay.com.au/itm/attiny13a/191109036591|this one]] ).
 
+**UPDATE 2018-12-26** (see [[DIARY.creole#2018-12-26|diary entry]] ):
+
 Due to the ATTiny13A not having hardware UART, I will instead try using one of
 my ESP8266 ESP-01 modules I have laying around.
+
+**UPDATE 2019-01-12** (see [[DIARY.creole#2019-01-12|diary entry]] ):
+
+Due to the ESP8266's sleep and pin count limitations, I'm going with an
+[[doc/ATTiny85.datasheet.pdf|Atmel ATTiny85 (datasheet)]].
+
+**UPDATE 2019-03-14** (see [[DIARY.creole#2019-03-14|diary entry]] ):
+
+Due to the lack of a hardware UART on the ATTiny85, and the clock requirements
+of the UART bitbang to talk to the FN-M16P, clashing with the clock rate for the
+WS2811, I'm NOW going with an ATMega328 :P
 
 === Lighting ===
 
