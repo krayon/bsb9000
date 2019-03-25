@@ -86,7 +86,8 @@ Due to the ESP8266's sleep and pin count limitations, I'm going with an
 
 Due to the lack of a hardware UART on the ATTiny85, and the clock requirements
 of the UART bitbang to talk to the FN-M16P, clashing with the clock rate for the
-WS2811, I'm NOW going with an ATMega328 :P
+WS2811, I'm NOW going with an [[doc/ATMega328P.datasheet.pdf|Atmel ATMega328P
+(datasheet)]] :P
 
 === Lighting ===
 

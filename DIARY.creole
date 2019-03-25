@@ -50,13 +50,13 @@ pins (maybe 6 more) but this wouldn't solve the push button/reset issue without
 a seperate uP (such as the ATTiny). At this point it seemed to me that since I
 didn't need any of the ESP8266 wifi functionality, and was going to use a
 better ESP8266 anyway, I may as well use a better Atmel AVR instead and use one
-with UART. Perhaps one of my ATMega328's.
+with UART. Perhaps one of my ATMega328P's.
 
 == 2019-01-12 ==
 
 Playing around with the ATTiny85's lately and successfully got it to bitbang
 the serial comms to the FN-M16P. Obviously I should be able to do this on the
-ATTiny13 too but I ran out of space just programming in some lighting effects
+ATTiny13A too but I ran out of space just programming in some lighting effects
 into it so the ATTiny85 it is. Perhaps I can get away with using a Tiny after
 all.
 
@@ -66,11 +66,11 @@ Last night, I finally tried to merge my 2 pieces of code - the FN-M16P
 controller, and the WS2811 controller... and... I ran into an issue :P Given
 the low baud rate of the M16 (9600) it's easiest to run the processor at 1MHz,
 unfortunately this is too slow for the WS2811! OK, maybe I'll go back to my
-ATMega328 after all :P
+ATMega328P after all :P
 
 == 2019-03-11 ==
 
-I have returned back to the ATMega328 for this project. One thing I cannot
+I have returned back to the ATMega328P for this project. One thing I cannot
 easily do however, is use the UART to debug since it's being used to
 communicate with the FN-M16P. I have therefore obtained a TM1638 powered module
 driving 8 LEDs, 8 7-segment (+ period) characters and 8 buttons:
