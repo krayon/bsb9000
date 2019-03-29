@@ -1,0 +1,112 @@
+## File system structure ##
+
+### Menu audio ###
+```
+/01/
+    MENU_SOUNDS
+    001.ERROR.wav
+    002.menu.click.freesoundorg-NenadSimic.TRIM.CC0.wav
+    003.menu.ok.freesoundorg-unfa.CC0.wav
+    004.menu.cancel.freesoundorg.CC0.BACK-TRIM.wav
+```
+
+### Bullshit audio ###
+```
+/02/
+    BULLSHIT_AUDIO
+    001.VOICE.bullshit.cognito-perceptu.freesoundorg.CC0.wav
+    002.VOICE.bullshit.macdaddyno1.CC0.wav
+    003.VOICE.liar.robinhood76.freesoundorg.CCBYNC.wav
+    004.VOICE.no-one-listens-to-your-shit.shadoWisp.freesoundorg.CCBY.TRIM3rd.wav
+    005.VOICE.seriously.Alivvie.freesoundorg.CC0.wav
+    006.VOICE.what-female.reitanna.freesoundorg.CC0.wav
+    007.VOICE.what-male.reitanna.freesoundorg.CC0.wav
+    008.VOICE.what-the-hell.afterguard.freesoundorg.CCBY.wav
+    009.SOUND.family-feud-strike-bahbow.83LNmNdh5Sw.wav
+```
+
+### Duke3D audio ###
+```
+/03/
+    DUKE_NUKEM_3D_QUOTES
+    001.VOICE.time-to-abort-your-frickin-species.wav
+    002.VOICE.ahh-much-better.wav
+    003.VOICE.looks-like-cleanup-on-aisle-4.wav
+    004.VOICE.hehehe-what-a-mess.wav
+    005.VOICE.damn-that-was-annoying.wav
+    006.VOICE.your-an-inspiration-for-birth-control.wav
+    007.VOICE.ill-be-back.wav
+    008.VOICE.bitchin.wav
+    009.VOICE.blow-it-out-your-ass.wav
+    010.VOICE.should-have-known-alien-maggots-boobytrapped-sub.wav
+    011.VOICE.book-em-danno.Hawaii_Five-0.wav
+    012.VOICE.born-to-be-wild.wav
+    013.VOICE.time-to-kick-ass-chew-gum-all-out.wav
+    014.VOICE.come-on.wav
+    015.VOICE.looks-like-i-have-the-conn.wav
+    016.VOICE.cool.wav
+    017.VOICE.im-not-crying-over-this.wav
+    018.VOICE.damn.wav
+    019.VOICE.damn-it.wav
+    020.VOICE.you-wanna-dance.wav
+    021.VOICE.die-you-son-of-a-bitch.wav
+    022.VOICE.hmm-one-doomed-space-marine.wav
+    023.VOICE.eye-yey-yeye.wav
+    024.VOICE.im-duke-nukem-coming-to-get-rest-alien-bastards.wav
+    025.VOICE.eat-shit-and-die.wav
+    026.VOICE.i-guess-he-didnt-escape-from-la.wav
+    027.VOICE.your-face-your-ass-whats-difference.wav
+    028.VOICE.now-this-is-force-to-be-reckoned-with.wav
+    029.VOICE.get-that-crap-outta-here.wav
+    030.VOICE.come-get-some.wav
+    031.VOICE.game-over.wav
+    032.VOICE.thats-gotta-hurt.wav
+    033.VOICE.groovy.wav
+    034.VOICE.you-guys-suck.wav
+    035.VOICE.hail-to-the-king-baby.wav
+    036.VOICE.shit-happens.wav
+    037.VOICE.holy-cow.wav
+    038.VOICE.holy-shit.wav
+    039.VOICE.damn-im-good.wav
+    040.VOICE.nobody-jacks-with-our-independance.wav
+    041.VOICE.see-you-in-hell.wav
+    042.VOICE.im-going-in.wav
+    043.VOICE.we-meet-again-dr-jones.wav
+    044.VOICE.im-going-to-kick-your-ass-bitch.wav
+    045.VOICE.ktit-playing-breast-best-tunes-in-town.wav
+    046.VOICE.let-god-sort-them-out.wav
+    047.VOICE.lets-rock.wav
+    048.VOICE.damn-im-lookin-good.wav
+    049.VOICE.go-ahead-make-my-day.wav
+    050.VOICE.im-gonna-get-medievil-on-your-asses.wav
+    051.VOICE.nobody-messes-with-my-meat.wav
+    052.VOICE.dont-have-time-to-play-with-myself.wav
+    053.VOICE.my-names-duke-nukem.wav
+    054.VOICE.nobody-steals-our-chicks-and-lives.wav
+    055.VOICE.my-kinda-party-wish-i-had-time.wav
+    056.VOICE.damn-those-alien-bastards-pay-for-shooting-up-ride.wav
+    057.VOICE.yeah-piece-of-cake.wav
+    058.VOICE.this-really-pisses-me-off.wav
+    059.VOICE.youre-pissing-me-off.wav
+    060.VOICE.looks-like-its-time-to-go-postal.wav
+    061.VOICE.i-aint-afraid-of-no-quake.wav
+    062.VOICE.after-a-few-days-of-r-and-r-ill-be-ready-for-more-action.wav
+    063.VOICE.ready-for-action.wav
+    064.VOICE.ill-rip-your-head-off-and-shit-down-your-neck.wav
+    065.VOICE.gonna-rip-em-a-new-one.wav
+    066.VOICE.rockin.wav
+    067.VOICE.shake-it-baby.wav
+    068.VOICE.get-back-to-work-you-slacker.wav
+    069.VOICE.im-gonna-put-this-smack-dab-on-your-ass.wav
+    070.VOICE.so-help-me-duke.wav
+    071.VOICE.suck-it-down.wav
+    072.VOICE.terminated.wav
+    073.VOICE.this-sucks.wav
+    074.VOICE.someones-gonna-frickin-pay-for-screwing-up-my-vacation.wav
+    075.VOICE.what-are-you-waiting-for-christmas.wav
+    076.VOICE.who-wants-some.wav
+    077.VOICE.whistle-duke-song.wav
+    078.VOICE.yippee-ki-ye-motherfucker.wav
+    079.VOICE.yo-ho-ho-and-a-bottle-of-jack.wav
+    080.VOICE.harrr-matey-someone-take-long-walk-off-short-gangplank.wav
+```
