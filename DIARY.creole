@@ -81,3 +81,9 @@ driving 8 LEDs, 8 7-segment (+ period) characters and 8 buttons:
 
 This serves as my debug tool, displaying return values, state information etc.
 
+== 2019-03-26 ==
+
+Already the debug display ( TM1638 ) has proved itself again. When testing the
+FN-M16P, a request for a "file in folder count" when the folder contains only 4
+files, results in NOTHING being returned, not even an error. Having visibility
+to this avoided much hair pulling where I try to find what I did wrong.
