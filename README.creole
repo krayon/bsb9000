@@ -114,6 +114,19 @@ insertion function! Not bad for under $2 AU.
 
 == Availability ==
 
+Primarily available at [[https://gitlab.com/krayon/bsb9000|GitLab]] (preferred)
+or [[https://github.com/krayon/bsb9000|GitHub]].
+
+== Schematic ==
+
+**NOTE:** This is still a work in progress
+
+{{imgs/bsb9000.schematic.thumb.png|BSB9000 Schematic (v0.1)}}
+
+[[imgs/bsb9000.schematic.png|FULL SIZE]]
+
+== Software ==
+
 Not yet.
 
 == Bug Tracker ==

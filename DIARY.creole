@@ -87,3 +87,11 @@ Already the debug display ( TM1638 ) has proved itself again. When testing the
 FN-M16P, a request for a "file in folder count" when the folder contains only 4
 files, results in NOTHING being returned, not even an error. Having visibility
 to this avoided much hair pulling where I try to find what I did wrong.
+
+== 2019-03-31 ==
+
+First schematic, outlining design:
+
+{{imgs/bsb9000.schematic.thumb.png|BSB9000 Schematic (v0.1)}}
+
+[[imgs/bsb9000.schematic.png|FULL SIZE]]
