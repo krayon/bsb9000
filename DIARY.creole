@@ -88,10 +88,23 @@ FN-M16P, a request for a "file in folder count" when the folder contains only 4
 files, results in NOTHING being returned, not even an error. Having visibility
 to this avoided much hair pulling where I try to find what I did wrong.
 
+== 2019-03-30 ==
+
+Added first schematic, outlining design (v0.1).
+
 == 2019-03-31 ==
 
-First schematic, outlining design:
+Now that I'm starting to look at physical layout, I have moved a few pins
+around for ease of assembly. Schematic updated accordingly:
 
-{{imgs/bsb9000.schematic.thumb.png|BSB9000 Schematic (v0.1)}}
+{{imgs/bsb9000.schematic.thumb.png|BSB9000 Schematic (v0.2)}}
 
 [[imgs/bsb9000.schematic.png|FULL SIZE]]
+
+Also, populated the fritzing breadboard view. This SOMEWHAT matches mine
+although a fair bit neater as it wasn't an evolution :P
+
+{{imgs/bsb9000.breadboard.thumb.png|BSB9000 Breadboard (v0.2)}}
+
+[[imgs/bsb9000.breadboard.png|FULL SIZE]]
+
